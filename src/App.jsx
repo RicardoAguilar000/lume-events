@@ -1,6 +1,9 @@
 import Navbar from "./components/layout/Navbar";
 import Hero from "./components/sections/hero";
 import Services from "./components/sections/Services";
+import Gallery from "./components/sections/Gallery";
+import Feature from './components/sections/Feature';
+import Contact from './components/sections/Contact';
 
 function App() {
   return (
@@ -8,6 +11,9 @@ function App() {
       <Navbar />
       <Hero />
       <Services />
+      <Gallery/>
+      <Feature />
+      <Contact/>    
     </div>
   );
 }
