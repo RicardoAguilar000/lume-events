@@ -1,6 +1,6 @@
 import { useInView } from "../../hooks/useInView";
-import video1 from "../../assets/video/video 1.mp4"; 
-import video2 from "../../assets/video/video 2.mp4"; 
+import video1 from "../../assets/video/video-1.mp4"; 
+import video2 from "../../assets/video/video-2.mp4"; 
 
 const Feature = () => {
   return (
