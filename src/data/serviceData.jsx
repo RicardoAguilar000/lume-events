@@ -40,7 +40,7 @@ export const servicios = [
     titulo: "Decoración con Globos",
     descripcion:
       "Arcos, columnas y esculturas de globos diseñados con estilo y personalidad.",
-    imagen: globosImg,
+    imagen: generoImg,
   },
 
   {
@@ -56,7 +56,7 @@ export const servicios = [
     titulo: "Revelaciones de Género",
     descripcion:
       "Sorprende a todos con una revelación llena de emoción, color y alegría.",
-    imagen: generoImg,
+    imagen: globosImg,
   },
 
   {
