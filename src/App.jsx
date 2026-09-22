@@ -1,23 +1,23 @@
-import Navbar from './components/layout/Navbar';
-import Hero from './components/sections/Hero';
-import Services from './components/sections/Services';
-import Gallery from './components/sections/Gallery';
+import Navbar from "./components/layout/Navbar";
+import Hero from "./components/sections/hero";
+import Services from "./components/sections/Services";
+import Gallery from "./components/sections/Gallery";
 import Feature from './components/sections/Feature';
-import About from './components/sections/About';
 import Contact from './components/sections/Contact';
 import Footer from './components/layout/Footer';
+import About from "./components/sections/About";
 
 function App() {
   return (
-    <div className="min-h-screen bg-lume-black">
+    <div className="min-h-screen bg-white">
       <Navbar />
       <Hero />
       <Services />
-      <Gallery />
+      <Gallery/>
       <Feature />
-      <About />
-      <Contact />
-      <Footer />
+      <About/>
+      <Contact/>   
+      <Footer/> 
     </div>
   );
 }
