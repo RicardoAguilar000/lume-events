@@ -13,7 +13,8 @@ function App() {
       <Services />
       <Gallery/>
       <Feature />
-      <Contact/>    
+      <Contact/>   
+      <footer/> 
     </div>
   );
 }
