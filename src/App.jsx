@@ -4,6 +4,7 @@ import Services from "./components/sections/Services";
 import Gallery from "./components/sections/Gallery";
 import Feature from './components/sections/Feature';
 import Contact from './components/sections/Contact';
+import Contact from './components/layout/Footer';
 
 function App() {
   return (
