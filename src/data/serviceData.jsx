@@ -85,7 +85,7 @@ export const servicios = [
     id: 10,
     titulo: "Graduaciones",
     descripcion:
-      "Celebra el logro con montajes que reflejam el esfuerzo con orgullo de este dia.",
+      "Celebra el logro con montajes que reflejan el esfuerzo con orgullo de este dia.",
     imagen: graduacionImg,
   },
 
